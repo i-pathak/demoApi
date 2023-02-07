@@ -1,7 +1,7 @@
 {
   "posts": [
-    { "user_id": 1, "name": "Shivam Pathak", "comment_body": "Nice app", "pic_url": ""},
-    { "user_id": 2, "name": "Sai Vishal", "comment_body": "Very Nice app", "pic_url": ""},
-    { "user_id": 3, "name": "Mr. Lal", "comment_body": "Nice app", "pic_url": ""}
+    { "user_id": 1, "name": "Shivam Pathak", "comment_body": "Nice app", "pic_url": "https://www.rd.com/wp-content/uploads/2020/12/GettyImages-78777891-scaled.jpg"},
+    { "user_id": 2, "name": "Sai Vishal", "comment_body": "Very Nice app", "pic_url": "https://www.rd.com/wp-content/uploads/2020/12/GettyImages-78777891-scaled.jpg"},
+    { "user_id": 3, "name": "Mr. Lal", "comment_body": "Nice app", "pic_url": "https://www.rd.com/wp-content/uploads/2020/12/GettyImages-78777891-scaled.jpg"}
   ]
 }
